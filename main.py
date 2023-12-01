@@ -65,6 +65,3 @@ while not win_flag:
                 win_flag = False
         else:
             print('You have completed all levels.')
-
-
-

@@ -1,5 +1,3 @@
-import msvcrt as m
-from maze import findWinningSpot
 class Player:
     def __init__(self,startingPos):
         self.current_pos = startingPos
@@ -28,11 +26,6 @@ class Player:
                 self.current_pos[1] += 1
                 map[self.current_pos[0]][self.current_pos[1]-1] = ' '
 
-            
-    
-        
-            
-
     
     def checkValidMove(self,key,map):
         if key.upper() == 'W':
@@ -57,11 +50,4 @@ class Player:
                 return False
         else:
             return False
-        return True
-    
-    
-
-
-
-
-        
+        return True        
