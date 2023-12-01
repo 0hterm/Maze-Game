@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "maze-game",
+  "version": "1.0.0",
+  "description": "Maze Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0hterm/Python-Maze-Game.git"
+  },
+  "keywords": [],
+  "author": "Hunter Termo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0hterm/Python-Maze-Game/issues"
+  },
+  "homepage": "https://github.com/0hterm/Python-Maze-Game#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
