@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+p {
+    color: white;
+    margin-left: 40%;
+}
+h1 {
+    text-align: center;
+    border-style: dashed;
+    border-color: pink;
+    color: white;
+}
+h2 {
+    text-align: center;
+    border-style: dashed;
+    border-color: pink;
+    color: white;
+}
+ul {
+    color: white;
+    letter-spacing: 1px;
+    margin-left: 40%;
+}
+
